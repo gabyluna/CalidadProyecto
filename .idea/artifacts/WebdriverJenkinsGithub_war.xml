@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebdriverJenkinsGithub:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="WebdriverJenkinsGithub-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WebdriverJenkinsGithub:war exploded" />
+    </root>
+  </artifact>
+</component>
